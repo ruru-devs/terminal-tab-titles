@@ -177,14 +177,18 @@ If you use **Kitty, Alacritty, WezTerm, foot, GNOME Terminal, Tilix, xterm, st, 
 ### Konsole
 
 Go to **Settings → Edit Current Profile → Tabs**.
-![[Pasted image 20260702174457.png]]
+
+![Terminal_1](Terminal_1.png)
+
 In the **Tab title format** field, set the value to:
 
 ```
 %w
 ```
 
-![[Pasted image 20260702174552.png]]
+
+![Terminal_2](Terminal_2.png)
+
 Click **OK** or **Apply**.
 
 
