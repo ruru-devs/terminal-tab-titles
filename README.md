@@ -29,6 +29,7 @@ Works on any terminal that supports OSC escape sequences: Konsole, Kitty, Alacri
 
 
 ![ktt-2](images/ktt-2.gif)
+
 The ✔ / ❌ flash duration is configurable (1 second for success, 2 for failure by default), so you can glance at another tab and still catch the result when you come back.
 
 
