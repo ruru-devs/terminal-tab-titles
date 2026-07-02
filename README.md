@@ -1,4 +1,4 @@
-# smart-tab-titles
+# terminal-tab-titles
 
 Smart, context-aware terminal tab titles for **zsh**, **bash**, and **fish**.
 
