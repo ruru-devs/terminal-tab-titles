@@ -131,7 +131,7 @@ These are treated as interactive sessions rather than tasks. The title shows the
 
 Editors & pagers: `vim`, `nvim`, `nano`, `micro`, `emacs`, `helix`, `less`, `more`
 
-REPLs: `python`, `ipython`, `node`, `deno`, `julia`, `ghci`, `irb`, `psql`, `sqlite3`, `redis-cli`, `mongosh`, `R`, `lua`, `ocaml`, `sbcl`, `guile`, `racket`, `clojure`, `evcxr`
+REPLs: `python`, `ipython`, `gnuplot`, `node`, `deno`, `julia`, `ghci`, `irb`, `psql`, `sqlite3`, `redis-cli`, `mongosh`, `R`, `lua`, `ocaml`, `sbcl`, `guile`, `racket`, `clojure`, `evcxr`
 
 TUIs & monitors: `btop`, `htop`, `top`, `ranger`, `yazi`, `lf`, `ncdu`, `cmus`, `mutt`, `irssi`, `weechat`
 
