@@ -30,7 +30,7 @@ KTT_FAIL_FLASH=${KTT_FAIL_FLASH:-2}
 KTT_SESSION_COMMANDS=(
     firefox chromium brave epiphany
     discord telegram-desktop signal-desktop
-    spotify vlc mpv
+    spotify vlc mpv gnuplot
     obsidian logseq notion
     thunderbird
     gimp inkscape krita kdenlive

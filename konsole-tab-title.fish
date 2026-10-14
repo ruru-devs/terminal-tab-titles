@@ -33,7 +33,7 @@ set -g KTT_SESSION_COMMANDS \
     firefox chromium brave epiphany \
     discord telegram-desktop signal-desktop \
     spotify vlc mpv \
-    obsidian logseq notion \
+    obsidian logseq notion gnuplot \
     thunderbird \
     gimp inkscape krita kdenlive \
     steam lutris \

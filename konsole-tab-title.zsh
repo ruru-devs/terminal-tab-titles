@@ -39,7 +39,7 @@ KTT_SESSION_COMMANDS=(
     # Browsers & GUI apps
     firefox chromium brave epiphany
     discord telegram-desktop signal-desktop
-    spotify vlc mpv
+    spotify vlc mpv gnuplot
     obsidian logseq notion
     thunderbird
     gimp inkscape krita kdenlive
